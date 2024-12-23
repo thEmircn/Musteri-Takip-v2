@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|c:\\users\\kullan\u0131c\u0131\\desktop\\gelsin paralar\\sefa nur\\sefa nur bardakc\u0131\\musteri-takip\\musteri-takip\\musteri-ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|solutionrelative:musteri-takip\\musteri-ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|solutionrelative:musteri-takip\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|solutionrelative:musteri-takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|solutionrelative:musteri-takip\\sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\gecmis-detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|solutionrelative:musteri-takip\\gecmis-detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9CAC85C-2BFD-4312-9A33-B00EFAE7AA04}|musteri-takip\\musteri-takip.csproj|solutionrelative:musteri-takip\\detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "musteri-ekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\musteri-ekle.cs",
+              "RelativeDocumentMoniker": "musteri-takip\\musteri-ekle.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\musteri-ekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteri-takip\\musteri-ekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:53:59.835Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "anamenu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\anamenu.cs",
+              "RelativeDocumentMoniker": "musteri-takip\\anamenu.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\anamenu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteri-takip\\anamenu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:53:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\sil.cs",
+              "RelativeDocumentMoniker": "musteri-takip\\sil.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\sil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteri-takip\\sil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:25:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gecmis-detay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\gecmis-detay.cs",
+              "RelativeDocumentMoniker": "musteri-takip\\gecmis-detay.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Downloads\\musteri-takip-otomasyonu-master\\musteri-takip-otomasyonu-master\\musteri-takip\\musteri-takip\\gecmis-detay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\musteri-takip-otomasyonu-master\\musteri-takip-otomasyonu-master\\musteri-takip\\musteri-takip\\gecmis-detay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:25:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "detay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\detay.cs",
+              "RelativeDocumentMoniker": "musteri-takip\\detay.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Downloads\\musteri-takip-otomasyonu-master\\musteri-takip-otomasyonu-master\\musteri-takip\\musteri-takip\\detay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\musteri-takip-otomasyonu-master\\musteri-takip-otomasyonu-master\\musteri-takip\\musteri-takip\\detay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:25:13.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\Form1.cs",
+              "RelativeDocumentMoniker": "musteri-takip\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kullan\u0131c\u0131\\Desktop\\Gelsin Paralar\\Sefa Nur\\Sefa Nur Bardakc\u0131\\musteri-takip\\musteri-takip\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteri-takip\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:17:35.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
